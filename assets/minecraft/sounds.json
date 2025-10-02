@@ -1,0 +1,11 @@
+{
+  "custom.join": {
+    "sounds": [
+      {
+        "name": "custom/join",
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  }
+}

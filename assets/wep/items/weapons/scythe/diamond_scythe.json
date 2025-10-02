@@ -1,0 +1,17 @@
+{
+    "model": {
+      "type": "minecraft:condition",
+      "property": "minecraft:has_component",
+      "component": "minecraft:damage_resistant",
+      "ignore_default": false,
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "wep:item/scythe/netherite_scythe"
+      },
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "wep:item/scythe/diamond_scythe"
+      }
+    },
+    "hand_animation_on_swap": false
+  }

@@ -1,0 +1,7 @@
+{
+	"parent": "wep:item/lance/lance",
+	"textures": {
+		"0": "wep:bb_model/stone_lance",
+		"particle": "wep:bb_model/stone_lance"
+	}
+}

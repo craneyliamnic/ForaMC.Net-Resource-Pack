@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "bb_model",
+      "prefix": "bb_model/"
+    }
+  ]
+}

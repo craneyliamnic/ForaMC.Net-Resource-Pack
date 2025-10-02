@@ -1,0 +1,25 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "wep:bb_model/gui/assembly_station.png",
+      "height": 79,
+      "ascent": 13,
+      "chars": ["X"]
+    
+    },
+    {
+      "type": "space",
+      "advances": {
+        "-": -8
+      }
+  }    ,
+    {
+      "type": "space",
+      "advances": {
+        "S": -130
+      }
+  }    
+
+  ]
+}
