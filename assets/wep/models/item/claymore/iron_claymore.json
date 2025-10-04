@@ -1,7 +1,0 @@
-{
-	"parent": "wep:item/claymore/claymore",
-	"textures": {
-		"0": "wep:bb_model/claymores/iron_claymore",
-		"particle": "wep:bb_model/claymores/iron_claymore"
-	}
-}
